@@ -1,0 +1,57 @@
+body{
+  background-color: #FE7A15;
+  font-family: sans-serif;
+}
+#text-hidden1{
+  display: none;
+}
+#text-hidden2{
+  display: none;
+}
+#text-hidden3{
+  display: none;
+}
+}
+#image{
+  display: none;
+}
+.clickable{
+  cursor: pointer;
+  color: #015C92;
+}
+.clickable:hover{
+  text-decoration: underline;
+}
+.clickable1{
+  cursor: pointer;
+  color: #015C92;
+}
+.clickable1:hover{
+  text-decoration: underline;
+}
+
+.clickable2{
+  cursor: pointer;
+  color: #015C92;
+}
+.clickable2:hover{
+  text-decoration: underline;
+}
+.img1{
+  width: 250px;
+  height: 200px;
+float: right;
+}
+.img2{
+  width: 155px;
+  height: 155px;
+float: left;
+}
+
+.jumbotron{
+height: 5px;
+background-color: #D3DD18;
+}
+h1{
+  text-align: center;
+}
